@@ -5,6 +5,7 @@ function Add_Links(link, title){
     a.href = link;
     a.title = title;
     a.innerHTML = title;
+    a.className = "Generated_a";
     linkBox.appendChild(a);
 }
 Add_Links("index.html", "Home");
