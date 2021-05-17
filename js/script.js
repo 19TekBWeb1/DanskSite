@@ -1,4 +1,4 @@
-
+//Function to add link to "References" div
 var linkBox = document.getElementById("References");
 function Add_Links(link, title){
     var a = document.createElement('a');
@@ -8,6 +8,7 @@ function Add_Links(link, title){
     a.className = "Generated_a";
     linkBox.appendChild(a);
 }
+//Adding all links to "References" div
 Add_Links("index.html", "Home");
 Add_Links("kultur.html", "Culture");
 Add_Links("traditions.html", "Traditions");
