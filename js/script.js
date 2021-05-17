@@ -8,3 +8,5 @@ function Add_Links(link, title){
     linkBox.appendChild(a);
 }
 Add_Links("kultur.html", "Culture");
+Add_Links("index.html", "Home");
+Add_Links("traditions.html", "Traditions");
