@@ -7,7 +7,17 @@
     border-width: 1px;
     border-color: blue;
 }
-
+#text{
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+#text h1{
+    text-align: center;
+}
+#text img{
+width: 25vw;
+height: auto;
+}
 .Generated_a{
     margin-right: 5px;
 }
