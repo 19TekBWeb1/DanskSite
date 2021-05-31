@@ -3,7 +3,7 @@
     padding: 0;
 }
 #References{
-    text-decoration: none;
+    text-decoration: red;
 }
 #text{
     margin-left: 10vw;
