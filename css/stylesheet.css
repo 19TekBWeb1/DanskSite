@@ -32,13 +32,11 @@ height: auto;
     text-align: center;
     margin-bottom: 50px;
     font-size: large;
-    color: white;
 }
 
 .h_sights{
     text-align: center;
     margin-bottom: 20px;
-    color: white;
 }
 
 .bilder_sights{
@@ -48,7 +46,7 @@ height: auto;
 }
 
 #sights_body{
-    background-color: ;
+    background-color: crimson;
 }
 
 #text_sights img{
