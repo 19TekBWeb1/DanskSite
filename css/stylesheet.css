@@ -35,11 +35,11 @@ height: auto;
 #sights_body{
     background-color: red;
 }
-#sights_text img{
+#text_sights img{
     width: 25vw;
     height: auto;
 }
-#sights_text{
+#text_sights{
     margin-left: 10vw;
     margin-right: 10vw;
 }
