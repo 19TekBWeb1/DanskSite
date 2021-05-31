@@ -9,10 +9,6 @@
     margin: 10px;
 }
 
-#References a{
-    margin-left: 20px;
-}
-
 #text{
     margin-left: 10vw;
     margin-right: 10vw;
@@ -28,7 +24,7 @@ height: auto;
 }
 
 .Generated_a{
-    margin-right: 5px;
+    margin-left: 20px;
 }
 
 .p_sights{
