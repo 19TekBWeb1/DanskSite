@@ -13,3 +13,9 @@ Add_Links("index.html", "Home");
 Add_Links("kultur.html", "Culture");
 Add_Links("traditions.html", "Traditions");
 Add_Links("sights.html", "Sights");
+//Joke
+function athanasios()
+{
+    var a = document.getElementById("about_img");
+    a.src ="img/Athanasios.png";
+}
