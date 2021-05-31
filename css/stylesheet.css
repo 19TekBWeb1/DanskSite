@@ -7,7 +7,8 @@
     text-decoration: none;
     font-size: 18px;
     margin: 10px;
-    
+    border-bottom: 2px solid;
+    border-color: white;
 }
 
 #text{
@@ -47,13 +48,15 @@ height: auto;
     display: block;
 }
 
-.background_flag{
-    background-image: url('..\img\Dannebrogen.png');
-    background-color: red;
+body{
+    background-color: crimson;
+    color: wheat;
 }
 
-#sights_body{
-    background-color: crimson;
+.background_flag{
+    background-image: url('..\\img\\Dannebrogen.png');
+    background-size: cover;
+    color: black;
 }
 
 #text_sights img{
