@@ -45,6 +45,11 @@ height: auto;
     display: block;
 }
 
+.background_flag{
+    background-image: url('..\img\Dannebrogen.png');
+    background-color: red;
+}
+
 #sights_body{
     background-color: red;
 }
