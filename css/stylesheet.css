@@ -21,9 +21,11 @@ height: auto;
 }
 .p_sights{
     text-align: center;
+    margin-bottom: 50px;
 }
 .h_sights{
     text-align: center;
+    margin-bottom: 50px;
 }
 .bilder_sights{
     margin-left: auto;
@@ -41,6 +43,5 @@ height: auto;
 #text_sights{
     margin-left: 20vw;
     margin-right: 20vw;
-    margin-bottom: 50px;
 }
 
