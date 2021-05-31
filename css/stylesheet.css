@@ -23,9 +23,11 @@ height: auto;
 }
 .p_sights{
     text-align: center;
+    width: 100px;
 }
 .h_sights{
     text-align: center;
+    width: 100px;
 }
 .bilder_sights{
     margin-left: auto;
