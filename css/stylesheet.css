@@ -28,5 +28,7 @@ height: auto;
     text-align: center;
 }
 .bilder_sights{
-    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
