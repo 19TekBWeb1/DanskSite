@@ -38,6 +38,8 @@ height: auto;
 #sights_text img{
     width: 25vw;
     height: auto;
+}
+#sights_text{
     margin-left: 10vw;
     margin-right: 10vw;
 }
