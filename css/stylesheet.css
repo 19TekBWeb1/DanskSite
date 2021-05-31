@@ -21,3 +21,17 @@ height: auto;
 .Generated_a{
     margin-right: 5px;
 }
+.p_sights{
+    text-align: center;
+}
+.h_sights{
+    text-align: center;
+}
+.bilder_sights{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#sights_body{
+    background-color: red;
+}
