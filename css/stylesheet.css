@@ -2,44 +2,61 @@
     margin: 0;
     padding: 0;
 }
+
 #References{
     text-decoration: none;
+    font-size: 18px;
+    margin: 10px;
 }
+
+#References a{
+    margin-left: 20px;
+}
+
 #text{
     margin-left: 10vw;
     margin-right: 10vw;
 }
+
 #text h1{
     text-align: center;
 }
+
 #text img{
 width: 25vw;
 height: auto;
 }
+
 .Generated_a{
     margin-right: 5px;
 }
+
 .p_sights{
     text-align: center;
     margin-bottom: 50px;
 }
+
 .h_sights{
     text-align: center;
     margin-bottom: 20px;
 }
+
 .bilder_sights{
     margin-left: auto;
     margin-right: auto;
     display: block;
 }
+
 #sights_body{
     background-color: red;
 }
+
 #text_sights img{
     width: 35vw;
     height: auto;
     margin-bottom: 50px;
 }
+
 #text_sights{
     margin-left: 25vw;
     margin-right: 25vw;
